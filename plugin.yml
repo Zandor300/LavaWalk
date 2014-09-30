@@ -1,0 +1,8 @@
+main: com.zandor300.lavawalk.LavaWalk
+name: LavaWalk
+author: Zandor300
+version: 1.0
+
+commands:
+  lavawalk:
+    description: LavaWalk
